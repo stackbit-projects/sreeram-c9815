@@ -1,0 +1,13 @@
+title: Hitchens
+email: hello@patdryburgh.com
+description: An inarguably well-designed Jekyll theme.
+baseurl: ''
+url: ''
+icon: /assets/images/icon-512.png
+twitter_username: patdryburgh
+github_username: patdryburgh
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+paginate: 3
+paginate_path: '/page/:num/'
